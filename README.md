@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshv18&label=Profile%20views&color=0e75b6&style=flat" alt="maheshv18" /> </p><br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshv18&label=Profile%20views&color=0e75b6&style=flat" alt="maheshv18" /> </p>
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Real time Video Chat App using Socket.io and Node.js...
