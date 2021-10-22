@@ -6,7 +6,7 @@
 - 📫 How to reach me: maheshv.gana@gmail.com...
 - 😄 Pronouns: He/ Him...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderjojo)](https://github.com/coderjojo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesgv18)](https://github.com/maheshv18/github-readme-stats)
 
 ![Mahesh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshv18&show_icons=true&theme=radical)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshv18&label=Profile%20views&color=0e75b6&style=flat" alt="maheshv18" /> </p>
