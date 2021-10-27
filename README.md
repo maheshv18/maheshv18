@@ -6,10 +6,10 @@
 - 👯 I’m looking to collaborate on ML/ Data Science Projects.
 - 📫 How to reach me: maheshv.gana@gmail.com.
 - 😄 Pronouns: He/ Him.
-<p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshv18)](https://github.com/maheshv18/github-readme-stats)
 
-![Mahesh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshv18&show_icons=true&theme=radical)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshv18)](https://github.com/maheshv18/github-readme-stats)
+
+![Mahesh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshv18&show_icons=true&theme=radical)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshv18" alt="maheshv18" /></a> </p>
 
