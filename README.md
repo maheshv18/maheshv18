@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Real time Video Chat App using Socket.io and Node.js.
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on ML/ Data Science Projects.
-- 📫 How to reach me: maheshv.gana@gmail.com.
+- 📫 How to reach me: maheshv2002@outlook.com.
 - 😄 Pronouns: He/ Him.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshv18)](https://github.com/maheshv18/github-readme-stats)
