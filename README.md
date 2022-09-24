@@ -7,6 +7,19 @@
 - 📫 How to reach me: maheshv2002@outlook.com.
 - 😄 Pronouns: He/ Him.
 
+<!---![Name_banner](https://user-images.githubusercontent.com/58391353/124501205-bdb27700-ddde-11eb-99eb-406432ffead4.gif)--->
+
+<img src="https://github.com/anushkarthik05/anushkarthik05/blob/main/images/stat.svg" alt="My Stats"/>
+
+
+<a href="https://github.com/maheshv18/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkarthik05&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/maheshv18/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkarthik05&count_private=true&layout=compact&theme=dark" />
+</a>
+
+        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshv18)](https://github.com/maheshv18/github-readme-stats)
 
 ![Mahesh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshv18&show_icons=true&theme=radical)
