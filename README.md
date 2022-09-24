@@ -12,7 +12,7 @@
 
 
 <a href="https://github.com/maheshv18/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshv18&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshv18&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/maheshv18/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshv18&count_private=true&layout=compact&theme=dark" />
@@ -21,7 +21,6 @@
         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshv18)](https://github.com/maheshv18/github-readme-stats)
 
-![Mahesh's's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshv18&show_icons=true&theme=radical)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshv18" alt="maheshv18" /></a> </p>
 
