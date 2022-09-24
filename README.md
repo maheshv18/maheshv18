@@ -19,7 +19,6 @@
 </a>
 <br>
         
-<p align="center">(https://github-readme-stats.vercel.app/api/top-langs/?username=maheshv18)](https://github.com/maheshv18/github-readme-stats)</p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshv18" alt="maheshv18" /></a> </p>
