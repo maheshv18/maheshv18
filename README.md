@@ -10,13 +10,14 @@
 <!---![Name_banner](https://user-images.githubusercontent.com/58391353/124501205-bdb27700-ddde-11eb-99eb-406432ffead4.gif)--->
 
 
-
+<p align="center">
 <a href="https://github.com/maheshv18/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshv18&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/maheshv18/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshv18&count_private=true&layout=compact&theme=dark" />
 </a>
+</p>
 <br>
         
 <br>
