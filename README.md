@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshv18&label=Profile%20views&color=0e75b6&style=flat" alt="maheshv18" /> </p>
 <h2> Hi there 👋 </h2>
 
-- 🔭 I’m currently working on a Real time Video Chat App using Socket.io and Node.js.
+- 🔭 I’m currently exploring MachneLearning & Deep Learning.
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on ML/ Data Science Projects.
 - 📫 How to reach me: maheshv2002@outlook.com.
@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/maheshv18/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshv18&count_private=true&show_icons=true&theme=radical" />
-</a>
+</a><br>
 <a href="https://github.com/maheshv18/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshv18&count_private=true&layout=compact&theme=dark" />
 </a>
