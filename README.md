@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on ML/ Data Science Projects.
 - 📫 How to reach me: maheshv2002@outlook.com.
-- 😄 Pronouns: He/ Him.
+- 😄 Pronouns: He/ Him / It / They.
 
 <!---![Name_banner](https://user-images.githubusercontent.com/58391353/124501205-bdb27700-ddde-11eb-99eb-406432ffead4.gif)--->
 
