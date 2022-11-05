@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshv18&label=Profile%20views&color=0e75b6&style=flat" alt="maheshv18" /> </p>
 <h2> Hi there 👋 </h2>
 
-- 🔭 I’m currently exploring MachneLearning & Deep Learning.
+- 🔭 I’m currently exploring Machine Learning & Deep Learning.
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on ML/ Data Science Projects.
 - 📫 How to reach me: maheshv2002@outlook.com.
